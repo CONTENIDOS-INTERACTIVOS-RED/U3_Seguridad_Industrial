@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'2. Metodologías de identificación de peligros (checklists, inspecciones, análisis preliminar de riesgos)'")
+  BannerInterno(:subTitulo="'2. Permisos de trabajo seguro'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .bg-color-1.mb-5(data-aos="fade-up")
@@ -202,6 +202,26 @@
               
     
         
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://zyght.com/blog/es/que-es-la-jerarquia-de-controles-criticos-y-como-aplicarlos/ " target="_blank" rel="noopener noreferrer") Zyght. (s.f.). ¿Qué es la Jerarquía de Controles Operacionales y cómo aplicarlos? 
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://open.spotify.com/episode/5LbLWbRxPGeAqo1txBCHL2?si=5B8MpvpaQo2DtLMS7Pui1w" target="_blank" rel="noopener noreferrer") Spotify. (s.f.). 4. Más allá del Ruido: Optimización de Alarmas en Plantas Químicas con HAZOP [video].  
+
+         
+
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
 
     
 

@@ -38,15 +38,14 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo:
-          'Metodologías de identificación de peligros (<em>checklists</em>, inspecciones, análisis preliminar de riesgos)',
+        titulo: 'Permisos de trabajo seguro',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Evaluación cualitativa y cuantitativa de riesgos',
+        titulo: 'Rotación de personal',
         desarrolloContenidos: true,
       },
       {
