@@ -313,7 +313,7 @@
             p(data-aos="fade-left").mb-4 A continuación, se aborda de manera integral la implementación, sostenibilidad y rentabilidad, de los controles de ingeniería en el ámbito de la seguridad y salud en el trabajo, destacando su relevancia normativa y su impacto en la prevención de riesgos laborales.
     
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Controles de Ingeniería en SST: claves para su implementación y sostenibilidad"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )

@@ -213,11 +213,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://zyght.com/blog/es/que-es-la-jerarquia-de-controles-criticos-y-como-aplicarlos/ " target="_blank" rel="noopener noreferrer") Zyght. (s.f.). ¿Qué es la Jerarquía de Controles Operacionales y cómo aplicarlos? 
+              a(href="https://www.ilo.org/es/temas/administracion-e-inspeccion-del-trabajo/biblioteca-de-recursos/la-seguridad-y-salud-en-el-trabajo-guia-para-inspectores-del-trabajo-y/equipos-de-proteccion-personal" target="_blank" rel="noopener noreferrer") Organización Internacional del Trabajo. (s.f.). Equipos de protección personal. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://open.spotify.com/episode/5LbLWbRxPGeAqo1txBCHL2?si=5B8MpvpaQo2DtLMS7Pui1w" target="_blank" rel="noopener noreferrer") Spotify. (s.f.). 4. Más allá del Ruido: Optimización de Alarmas en Plantas Químicas con HAZOP [video].  
+              a(href="https://www.youtube.com/watch?v=ag4SPuggw1Q" target="_blank" rel="noopener noreferrer") MMEKII. (2019). Ley 9 de 1979 título 3 Salud ocupacional [video]. YouTube. 
 
          
 

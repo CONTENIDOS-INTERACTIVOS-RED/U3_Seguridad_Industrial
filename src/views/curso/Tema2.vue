@@ -211,11 +211,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://zyght.com/blog/es/que-es-la-jerarquia-de-controles-criticos-y-como-aplicarlos/ " target="_blank" rel="noopener noreferrer") Zyght. (s.f.). ¿Qué es la Jerarquía de Controles Operacionales y cómo aplicarlos? 
+              a(href="https://www.sepresst.com.mx/2019/09/28/jerarquia-de-controles-de-riesgos/" target="_blank" rel="noopener noreferrer") Joel, H. (2019). Jerarquía de Controles de Riesgos. Servicios Preventivos de Seguridad y Salud en el Trabajo. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://open.spotify.com/episode/5LbLWbRxPGeAqo1txBCHL2?si=5B8MpvpaQo2DtLMS7Pui1w" target="_blank" rel="noopener noreferrer") Spotify. (s.f.). 4. Más allá del Ruido: Optimización de Alarmas en Plantas Químicas con HAZOP [video].  
+              a(href="https://www.youtube.com/watch?v=zGg3ysmjqnk" target="_blank" rel="noopener noreferrer") Inversiones Grupo Didásko. (2020). ART | Análisis de Riesgo de la tarea | Formaciones SISO [video]. YouTube.
 
          
 
