@@ -1,7 +1,7 @@
 export default {
   global: {
     numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    tituloUnidad: 'Diseño e implementación de medidas de control de riesgos',
   },
   menuPrincipal: {
     menu: [
@@ -15,19 +15,21 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Diseño e implementación de medidas de control de riesgos',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Controles de ingeniería en seguridad y salud en el trabajo',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Controles administrativos y procedimientos de trabajo seguro ',
             hash: 't_1_2',
           },
         ],
@@ -36,49 +38,16 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo:
+          'Metodologías de identificación de peligros (<em>checklists</em>, inspecciones, análisis preliminar de riesgos)',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: 'Evaluación cualitativa y cuantitativa de riesgos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'sintesis',
@@ -118,26 +87,112 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Castejón Vilella, E. Guardino Solá, X. & Baraza Sánchez, X. (2014). Higiene industrial. Editorial UOC.  ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/57709?page=23',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Falagán Rojo, M. J. (2009). Higiene industrial aplicada. Fundación Luis Fernández Velasco. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/59633 ',
+    },
+    {
+      referencia:
+        'Martín Blanco, V. Sánchez Rivero, J. M. & Enriquez Palomino, A. (2014). Seguridad industrial: puesta en servicio, mantenimiento e inspección de equipos e instalaciones. FC Editorial. ',
+      link:
+        'https://elibro.net/es/ereader/tecnologicadeloriente/114073?page=1 ',
+    },
+    {
+      referencia:
+        'García Laureano, R. (2019). Seguridad y salud. MF0075. Editorial Tutor Formación. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/111572 ',
+    },
+    {
+      referencia:
+        'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (2012). GTC 45: Guía para la identificación de los peligros y la valoración de los riesgos en seguridad y salud ocupacional. Ministerio de Trabajo.',
+      link: ' http://132.255.23.82/sipnvo/normatividad/GTC_45_DE_2012.pdf',
+    },
+    {
+      referencia:
+        'Resolución 2400 de 1979 (Ministerio de Trabajo y Seguridad Social). Por el cual se establecen disposiciones sobre vivienda, higiene y seguridad industrial en los establecimientos de trabajo. 22 de mayo de 1979. ',
+      link:
+        'https://www.bogotajuridica.gov.co/sisjur/normas/Norma1.jsp?i=53565',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Accidente de trabajo',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'suceso repentino que sobreviene por causa o con ocasión del trabajo y que produce una lesión orgánica, una perturbación funcional, una invalidez o la muerte.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Análisis de riesgos',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'proceso para comprender la naturaleza del peligro y determinar el nivel de riesgo.',
+    },
+    {
+      termino: 'Condición insegura',
+      significado:
+        'cualquier característica del ambiente laboral que puede generar un accidente o enfermedad laboral.',
+    },
+    {
+      termino: 'Control del riesgo',
+      significado:
+        'medida que se implementa para eliminar o reducir un riesgo a un nivel aceptable.',
+    },
+    {
+      termino: 'Enfermedad laboral',
+      significado:
+        'patología contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral.',
+    },
+    {
+      termino: 'Evaluación de riesgos',
+      significado:
+        'proceso global para estimar la magnitud del riesgo y decidir si el riesgo es o no tolerable.',
+    },
+    {
+      termino: 'Factor de riesgo',
+      significado:
+        'elemento del entorno laboral que puede causar daño a la salud o integridad del trabajador.',
+    },
+    {
+      termino: 'Matriz de riesgos',
+      significado:
+        'herramienta para identificar y valorar los riesgos asociados a las actividades laborales.',
+    },
+    {
+      termino: 'Peligro',
+      significado:
+        'fuente, situación o acto con potencial para causar daño en términos de lesión o enfermedad.',
+    },
+    {
+      termino: 'Prevención',
+      significado:
+        'conjunto de medidas anticipadas para evitar o reducir los riesgos laborales.',
+    },
+    {
+      termino: 'Probabilidad',
+      significado:
+        'posibilidad de que ocurra un evento o exposición peligrosa en determinadas condiciones.',
+    },
+    {
+      termino: 'Riesgo',
+      significado:
+        'combinación de la probabilidad de que ocurra un evento y sus consecuencias.',
+    },
+    {
+      termino: 'Riesgo aceptable',
+      significado:
+        'nivel de riesgo que se ha determinado tolerable para ser asumido por la organización.',
+    },
+    {
+      termino: 'Seguridad y salud en el trabajo',
+      significado:
+        'disciplina que se enfoca en la prevención de lesiones y enfermedades laborales.',
+    },
+    {
+      termino: 'Sistema de gestión',
+      significado:
+        'conjunto de elementos interrelacionados utilizados para establecer políticas y objetivos de una organización.',
     },
   ],
 }
