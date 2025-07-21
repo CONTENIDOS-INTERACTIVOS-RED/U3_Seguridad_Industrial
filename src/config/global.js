@@ -86,112 +86,139 @@ export default {
   referencias: [
     {
       referencia:
-        'Castejón Vilella, E. Guardino Solá, X. & Baraza Sánchez, X. (2014). Higiene industrial. Editorial UOC.  ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/57709?page=23',
-    },
-    {
-      referencia:
-        'Falagán Rojo, M. J. (2009). Higiene industrial aplicada. Fundación Luis Fernández Velasco. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/59633 ',
-    },
-    {
-      referencia:
-        'Martín Blanco, V. Sánchez Rivero, J. M. & Enriquez Palomino, A. (2014). Seguridad industrial: puesta en servicio, mantenimiento e inspección de equipos e instalaciones. FC Editorial. ',
+        'Icontec Internacional. (2012). GTC 45: Guía para la identificación de los peligros y la valoración de los riesgos en seguridad y salud ocupacional. Guía Técnica Colombiana.',
       link:
-        'https://elibro.net/es/ereader/tecnologicadeloriente/114073?page=1 ',
+        'https://posipedia.com.co/wp-content/uploads/2021/04/15-MARZO-.-MATERIAL-DE-APOYO-PREVENCIÓN-DE-PELIGROS-EN-EL-ADMINISTRACIÓN-PUBLICA-GENERALIDADES.pdf',
     },
     {
       referencia:
-        'García Laureano, R. (2019). Seguridad y salud. MF0075. Editorial Tutor Formación. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/111572 ',
-    },
-    {
-      referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (2012). GTC 45: Guía para la identificación de los peligros y la valoración de los riesgos en seguridad y salud ocupacional. Ministerio de Trabajo.',
-      link: ' http://132.255.23.82/sipnvo/normatividad/GTC_45_DE_2012.pdf',
-    },
-    {
-      referencia:
-        'Resolución 2400 de 1979 (Ministerio de Trabajo y Seguridad Social). Por el cual se establecen disposiciones sobre vivienda, higiene y seguridad industrial en los establecimientos de trabajo. 22 de mayo de 1979. ',
+        'Resolución 2400 de 1979 (Ministerio del Trabajo). Por la cual se establecen disposiciones sobre vivienda, higiene y seguridad industrial en los establecimientos de trabajo. 22 de mayo de 1979.',
       link:
         'https://www.bogotajuridica.gov.co/sisjur/normas/Norma1.jsp?i=53565',
+    },
+    {
+      referencia:
+        'López Salcedo, A. de J. & García Guiliany, J. E. (2024). Eficacia de las capacitaciones en Seguridad y Salud en el Trabajo en tres empresas de la ciudad de Barranquilla. Gestión de la seguridad y la salud en el trabajo, 6(2), 14-24.',
+      link:
+        'https://www.researchgate.net/publication/384605932_Eficacia_de_las_capacitaciones_en_Seguridad_y_Salud_en_el_Trabajo_en_tres_empresas_de_la_ciudad_de_Barranquilla',
+    },
+    {
+      referencia:
+        'Twind. (2023). Guía de Permisos de Trabajo en Colombia: Seguridad Laboral.',
+      link: 'https://twind.io/co/guia-de-permisos-de-trabajo-en-colombia/',
+    },
+    {
+      referencia:
+        'Ley 1562 de 2012. Por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional. 11 de julio de 2012.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48365',
+    },
+    {
+      referencia:
+        'SafetyCulture. (2024). ¿Qué es un equipo de protección personal? Equipo de Protección Personal (EPP).',
+      link:
+        'https://safetyculture.com/es/temas/seguridad-sobre-el-equipo-de-proteccion-personal/',
     },
   ],
   glosario: [
     {
-      termino: 'Accidente de trabajo',
-      significado:
-        'suceso repentino que sobreviene por causa o con ocasión del trabajo y que produce una lesión orgánica, una perturbación funcional, una invalidez o la muerte.',
-    },
-    {
       termino: 'Análisis de riesgos',
       significado:
-        'proceso para comprender la naturaleza del peligro y determinar el nivel de riesgo.',
+        'Evaluación de peligros presentes para determinar la magnitud de los riesgos.',
     },
     {
-      termino: 'Condición insegura',
+      termino: 'Capacitación en SST',
       significado:
-        'cualquier característica del ambiente laboral que puede generar un accidente o enfermedad laboral.',
+        'Formación sobre prácticas seguras y uso de EPP en el entorno laboral.',
     },
     {
-      termino: 'Control del riesgo',
+      termino: 'Certificación del EPP',
       significado:
-        'medida que se implementa para eliminar o reducir un riesgo a un nivel aceptable.',
+        'Acreditación de que un equipo cumple estándares de calidad y seguridad.',
     },
     {
-      termino: 'Enfermedad laboral',
+      termino: 'Checklists',
       significado:
-        'patología contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral.',
+        'Listas de verificación utilizadas para identificar peligros y verificar cumplimiento.',
     },
     {
-      termino: 'Evaluación de riesgos',
+      termino: 'Control administrativo',
       significado:
-        'proceso global para estimar la magnitud del riesgo y decidir si el riesgo es o no tolerable.',
+        'Políticas y procedimientos para reducir exposición al riesgo, sin eliminarlo completamente.',
     },
     {
-      termino: 'Factor de riesgo',
+      termino: 'Control de ingeniería',
       significado:
-        'elemento del entorno laboral que puede causar daño a la salud o integridad del trabajador.',
+        'Solución técnica que elimina o reduce el riesgo en la fuente.',
     },
     {
-      termino: 'Matriz de riesgos',
+      termino: 'Cultura de seguridad',
       significado:
-        'herramienta para identificar y valorar los riesgos asociados a las actividades laborales.',
+        'Valores y prácticas compartidas que promueven el comportamiento seguro.',
     },
     {
-      termino: 'Peligro',
+      termino: 'EPP',
       significado:
-        'fuente, situación o acto con potencial para causar daño en términos de lesión o enfermedad.',
+        'Equipo de protección personal usado para reducir riesgos físicos al trabajador.',
     },
     {
-      termino: 'Prevención',
+      termino: 'Inspección de seguridad',
       significado:
-        'conjunto de medidas anticipadas para evitar o reducir los riesgos laborales.',
+        'Revisión sistemática de condiciones laborales para detectar riesgos.',
     },
     {
-      termino: 'Probabilidad',
+      termino: 'ISO 45001',
       significado:
-        'posibilidad de que ocurra un evento o exposición peligrosa en determinadas condiciones.',
+        'Norma internacional para sistemas de gestión de seguridad y salud en el trabajo.',
     },
     {
-      termino: 'Riesgo',
+      termino: 'Jerarquía de controles',
       significado:
-        'combinación de la probabilidad de que ocurra un evento y sus consecuencias.',
+        'Orden descendente de medidas de control: eliminación, sustitución, ingeniería, administrativas y EPP.',
     },
     {
-      termino: 'Riesgo aceptable',
+      termino: 'LOTO',
       significado:
-        'nivel de riesgo que se ha determinado tolerable para ser asumido por la organización.',
+        'Procedimiento de bloqueo y etiquetado para prevenir energización accidental durante mantenimiento.',
     },
     {
-      termino: 'Seguridad y salud en el trabajo',
+      termino: 'Mantenimiento preventivo',
       significado:
-        'disciplina que se enfoca en la prevención de lesiones y enfermedades laborales.',
+        'Actividades periódicas para asegurar el funcionamiento seguro de equipos.',
     },
     {
-      termino: 'Sistema de gestión',
+      termino: 'Normativa colombiana',
       significado:
-        'conjunto de elementos interrelacionados utilizados para establecer políticas y objetivos de una organización.',
+        'Conjunto de leyes y reglamentos que regulan la SST, como el Decreto 1072 del 2015.',
+    },
+    {
+      termino: 'Permiso de trabajo',
+      significado:
+        'Documento que autoriza realizar tareas de alto riesgo, bajo condiciones seguras.',
+    },
+    {
+      termino: 'Riesgo laboral',
+      significado:
+        'Probabilidad de ocurrencia de daño derivado del entorno de trabajo.',
+    },
+    {
+      termino: 'Rotación de personal',
+      significado:
+        'Cambio planificado de funciones para reducir exposición a riesgos físicos y psicosociales.',
+    },
+    {
+      termino: 'SG-SST',
+      significado:
+        'Sistema de gestión de seguridad y salud en el trabajo que busca prevenir accidentes y enfermedades laborales.',
+    },
+    {
+      termino: 'Ventilación localizada',
+      significado: 'Sistema que captura contaminantes en el punto de origen.',
+    },
+    {
+      termino: 'What-If',
+      significado:
+        'Técnica de análisis que plantea preguntas hipotéticas para identificar riesgos potenciales.',
     },
   ],
 }
